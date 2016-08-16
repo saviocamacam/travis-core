@@ -41,3 +41,5 @@ bundle exec rspec spec/travis/model/job_spec.rb
 ### Submitting patches
 
 Please fork the repository and submit a pull request. For larger changes, please open a ticket on our [main issue tracker](https://github.com/travis-ci/travis-ci/issues) first.
+
+Teste de integração com Travis Core
